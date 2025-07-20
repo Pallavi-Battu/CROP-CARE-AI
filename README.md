@@ -1,15 +1,29 @@
-# Crop disease detection app
+# 🌾 Crop Disease Detection App
 
+This web application helps farmers and agricultural experts identify crop diseases by uploading images of affected crops. The app uses AI techniques to analyze the image and predict the type of disease.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/pallavi-battus-projects/v0-crop-disease-detection-app
+## 👨‍🌾 Features
 
+- 🌱 Simple and clean user interface  
+- 📸 Upload crop leaf images to detect diseases  
+- 🧠 AI-powered prediction using lightweight models  
+- 🌍 Multi-language support for regional farmers  
+- 🔐 Secure farmer login and registration  
+- 🧾 Displays remedy suggestions for detected disease  
+- 🗃 History of previously scanned crops (optional)  
+- 📱 Fully mobile-responsive design  
+- 🧑‍💼 Admin dashboard for expert suggestions and management  
 
-.
+## 📦 Tech Stack
 
-## Deployment
+- ✨ Frontend: React (designed via V0.dev)  
+- 🎨 Styling: Tailwind CSS  
+- 🌐 Hosting: Vercel  
+- ⚙ Configuration: TypeScript, PostCSS  
+- 🤖 AI Model: TensorFlow Lite / MobileNet (planned integration)  
 
-Your project is live at:
+## 🚀 Getting Started (For Developers)
 
-**[https://vercel.com/pallavi-battus-projects/v0-crop-disease-detection-app](https://vercel.com/pallavi-battus-projects/v0-crop-disease-detection-app)**
-
-
+1. Clone the repository
+2. install dependencies
+3. start the development server
