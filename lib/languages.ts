@@ -987,6 +987,7 @@ export const translations = {
   },
 }
 
+// Required export functions
 export const getLanguageCode = (language: string): string => {
   return languages[language as keyof typeof languages]?.code || "en-US"
 }
